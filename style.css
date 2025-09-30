@@ -277,5 +277,9 @@ section h2 {
     background-color: rgb(231, 165, 43);
 }
 
+.navbar a{
+    color: white;
+    text-decoration: none;
+}
 
 
